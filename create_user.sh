@@ -1,6 +1,6 @@
 #!/bin/bash
 
-read -p "Enter username: " username
+read -p "Enter username: " rahul
 
 echo "you entered $username"
 
